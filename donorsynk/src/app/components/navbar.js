@@ -7,9 +7,9 @@ const NavBar = () => {
         <div className='mx-10 flex justify-between items-center'>
             <Link href="/">
                 <Image 
-                    src="/images/logo.png"
-                    width={40}
-                    height={40}
+                    src="/images/main-logo.png"
+                    width={161}
+                    height={32}
                 />
             </Link>
             <button className="connect-wallet text-white px-4 py-2 rounded-md">Connect Wallet</button>
