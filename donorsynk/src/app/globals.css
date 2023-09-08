@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+.connect-wallet{
+  background-color: #F52BA4;
+  ;
+}
